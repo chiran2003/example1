@@ -1,0 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  .hero {
+    background: url('https://lh3.googleusercontent.com/gg/AJxt1KMIcyAs3iy2LiEJw_YLXxbetDdyJnMpXEVO7jkJoegGoD8LAZvjqfqNKW2b2vNp_HVFImnOGSbu83iP61v3oeVqYq-dUPlNaGIvoY9XKUXet5h_vhLs8hjQLVAaD9S8kveh-BFoj8uusSNpHdNr7QwvTC8EIJlli68FmC1wQs_eIcwLR6cF');
+  }
